@@ -9,3 +9,9 @@
 
 <img src="https://github.com/awesomezzz/AutoEstServ_Aug/blob/main/Process.png" width="90%" height="90%" />
 
+
+## 開發
+
+- 程式語言：Python
+- 套件：Keras
+- 平台：Linux Ubuntu
